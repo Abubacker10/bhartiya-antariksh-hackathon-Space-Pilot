@@ -82,7 +82,8 @@ We propose a **modular AI-based system** that:
 
 ## 🤖 Demo
 
-> [!(https://drive.google.com/file/d/1xRR39Vqwct5vs9RtOrVqG3zYJ1koY97C/view?usp=sharing)] – Live demo video + hosted link with working assistant.
+> [![Watch Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1xRR39Vqwct5vs9RtOrVqG3zYJ1koY97C/view?usp=sharing)
+ – Live demo video + hosted link with working assistant.
 
 ---
 
