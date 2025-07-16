@@ -45,6 +45,10 @@ We propose a **modular AI-based system** that:
 
 ---
 
+## Knowledge Graph
+<img width="890" height="637" alt="Screenshot 2025-07-17 003655" src="https://github.com/user-attachments/assets/7a0662fc-e128-4dc4-a7d4-84afea864b38" />
+--
+
 ## 🧰 Tech Stack
 
 | Layer | Tools & Libraries |
