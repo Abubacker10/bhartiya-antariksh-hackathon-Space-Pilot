@@ -82,7 +82,8 @@ We propose a **modular AI-based system** that:
 
 ## 🤖 Demo
 
-Uploading 2025-07-08 15-59-55.mp4…
+
+https://github.com/user-attachments/assets/4659b071-3342-4698-9693-d61d529aae0b
 
 
 ---
