@@ -82,7 +82,8 @@ We propose a **modular AI-based system** that:
 
 ## 🤖 Demo
 
-(https://github.com/Abubacker10/bhartiya-antariksh-hackathon-Space-Pilot/blob/main/data/2025-07-08%2015-59-55.mkv)
+Uploading 2025-07-08 15-59-55.mp4…
+
 
 ---
 
